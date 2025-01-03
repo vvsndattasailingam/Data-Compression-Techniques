@@ -26,7 +26,7 @@ The project was implemented as part of the **Data Structures and Algorithms** co
 ## Compilation and Execution
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/huffman-lzw-compression.git
+   git clone https://github.com/vvsndattasailingam/Data-Compression-Techniques.git
    ```
 2. Navigate to the project directory:
    ```bash
